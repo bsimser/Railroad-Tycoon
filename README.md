@@ -1,2 +1,3 @@
-# railroadtycoon
-The original Railroad Tycoon game built in Unity 2D
+# Railroad Tycoon
+
+This is the original Railroad Tycoon game built using the Unity engine.
